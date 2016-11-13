@@ -1,5 +1,3 @@
-  $j = 0;
-
   def sortuj(argument)
     sortuj_tabele(argument, 0, argument.length-1)
     return argument
